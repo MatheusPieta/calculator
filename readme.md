@@ -35,6 +35,7 @@ Projeto desenvolvido para possibilitar fazer calculos com javascript
 
 - [Visite o projeto online](https://matheuspieta.github.io/calculator/)
 
+-[Esse projeto foi inspirado através desse video](https://www.youtube.com/watch?v=42TShjXR0m0&ab_channel=GustavoNeitzke)
 
 ## :memo: Licença
 
